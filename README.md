@@ -1,2 +1,4 @@
 # Region6_annotation
-A repository purposed for storing the files involved in the annotation process of the unknown_region 6 file provided to us.
+This repository contains all relevant files required to reproduce our work on the unknown genomic "region 6", that we were tasked with annotating.
+
+This project was performed in collaboration between Christos Mitsakopoulos and Denys Buryi.
