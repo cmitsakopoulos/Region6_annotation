@@ -13,7 +13,7 @@ score   div. del. ins.  sequence  begin end    (left)   repeat                  
    27   37.1  1.4  1.4  region6    9048  9194  (5807) + (GCC)n                       Simple_repeat       1    147     (0)   9  
    16   21.0  4.5  4.5  region6   10399 10464  (4537) + (GCG)n                       Simple_repeat       1     66     (0)  10  
    11   21.9  3.9  3.9  region6   10490 10540  (4461) + (TGGCGA)n                    Simple_repeat       1     51     (0)  11  
-  401   27.0  0.0  1.6  region6   12432 12559  (2442) + DTC_Taes_Jorge_65C22-1       Unspecified     19835  19960 (10898)  12  
+  401   27.0  0.0  1.6  region6   12432 12559  (2442) + DTC_Taes_Jorge_65C22-1       Unspecified19835  19960 (10898)  12  
    12   10.0  0.0  0.0  region6   13937 13958  (1043) + (GCAT)n                      Simple_repeat       1     22     (0)  13  
   330   30.3  7.0  0.6  region6   14152 14307   (694) + DTC_Taes_Jorge_65C22-1       Unspecified     20830  20995  (9863)  14 *
   415   23.9  0.9  0.0  region6   14153 14265   (736) C DTC_Taes_Jorge_65C22-1       Unspecified   (10898)  19960   19847  15  
