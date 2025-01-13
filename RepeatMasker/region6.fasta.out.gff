@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region region6 1 15001
+region6	RepeatMasker	dispersed_repeat	683	701	 0.0	+	.	ID=1;Target "Motif:(CGT)n" 1 19
+region6	RepeatMasker	dispersed_repeat	1998	2089	19.8	-	.	ID=2;Target "Motif:RSX_Taes_XC_C_42j2-2" 389 480
+region6	RepeatMasker	dispersed_repeat	2004	2082	14.1	-	.	ID=3;Target "Motif:RSX_Tmon_XC_C_AF326781-2" 561 638
+region6	RepeatMasker	dispersed_repeat	3648	3730	20.6	-	.	ID=4;Target "Motif:DTT_Taes_Athos_42j2-12" 7 85
+region6	RepeatMasker	dispersed_repeat	3668	3730	14.3	-	.	ID=5;Target "Motif:DTT_Scer_Athos_BQ483026-1" 5 68
+region6	RepeatMasker	dispersed_repeat	3731	3805	25.7	-	.	ID=6;Target "Motif:DTT_Taes_Athos_BJ272820-1" 1 75
+region6	RepeatMasker	dispersed_repeat	3984	3999	24.6	+	.	ID=7;Target "Motif:DTT_Taes_Silvina_4dls01491-1" 1 15
+region6	RepeatMasker	dispersed_repeat	4000	4033	 0.0	+	.	ID=8;Target "Motif:(CA)n" 1 34
+region6	RepeatMasker	dispersed_repeat	4034	4271	24.6	+	.	ID=7;Target "Motif:DTT_Taes_Silvina_4dls01491-1" 16 257
+region6	RepeatMasker	dispersed_repeat	9048	9194	37.1	+	.	ID=9;Target "Motif:(GCC)n" 1 147
+region6	RepeatMasker	dispersed_repeat	10399	10464	21.0	+	.	ID=10;Target "Motif:(GCG)n" 1 66
+region6	RepeatMasker	dispersed_repeat	10490	10540	21.9	+	.	ID=11;Target "Motif:(TGGCGA)n" 1 51
+region6	RepeatMasker	dispersed_repeat	12432	12559	27.0	+	.	ID=12;Target "Motif:DTC_Taes_Jorge_65C22-1" 19835 19960
+region6	RepeatMasker	dispersed_repeat	13937	13958	10.0	+	.	ID=13;Target "Motif:(GCAT)n" 1 22
+region6	RepeatMasker	dispersed_repeat	14152	14307	30.3	+	.	ID=14;Target "Motif:DTC_Taes_Jorge_65C22-1" 20830 20995
+region6	RepeatMasker	dispersed_repeat	14153	14265	23.9	-	.	ID=15;Target "Motif:DTC_Taes_Jorge_65C22-1" 19847 19960
+region6	RepeatMasker	dispersed_repeat	14485	14572	30.9	+	.	ID=16;Target "Motif:(AAAAAGA)n" 1 83
+region6	RepeatMasker	dispersed_repeat	14713	14910	26.2	+	.	ID=17;Target "Motif:RLC_Hvul_Sabrina_A_chr2H-35" 6984 7187
+region6	RepeatMasker	dispersed_repeat	14737	14868	28.7	-	.	ID=18;Target "Motif:RIX_Tmon_Miuse_115G1-1" 6436 6571

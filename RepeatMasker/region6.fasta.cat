@@ -1,0 +1,333 @@
+15 0.00 0.00 0.00 region6 683 701 (14267) (CGT)n#Simple_repeat 1 19 (0) m_b1s252i0
+
+  region6              683 CGTCGTCGTCGTCGTCGTC 701
+                                              
+  (CGT)n#Simple          1 CGTCGTCGTCGTCGTCGTC 19
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 18), avg. gap size = 0.0 (0 / 0)
+
+321 19.79 1.09 1.09 region6 1998 2089 (12879) C RSX_Taes_XC_C_42j2-2 (0) 480 389 m_b1s001i0
+
+  region6             1998 TTATTCTTTTCAAGAAA-CTTTCAATCTATTCATCTTCGATCATGATAGT 2046
+                             v  i   v       -   i         v  i   i       i   
+C RSX_Taes_XC_C        480 TTTTTTTTTACAAGAAAACTTCCAATCTATTAATTTTCAATCATGACAGT 431
+
+  region6             2047 ACGACAGACATAAAAAATAATAAAAAATTACATCCAGTAATGT 2089
+                             i iii   iv i        -           v  vv    
+C RSX_Taes_XC_C        430 ACAATGAACACCAGAAATAATA-AAAATTACATCGAGATATGT 389
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 23.36
+CpG sites = 11, Kimura (unadjusted) = 23.36
+Transitions / transversions = 1.57 (11/7)
+Gap_init rate = 0.02 (2 / 91), avg. gap size = 1.00 (2 / 2)
+
+391 14.10 0.00 1.28 region6 2004 2082 (12886) C RSX_Tmon_XC_C_AF326781-2 (147) 638 561 m_b1s001i1
+
+  region6             2004 TTTTCAAGAAACTTTCAATCTATTCATCTTCGATCATGATAGTACGACAG 2053
+                                                         iii      i     i  ii
+C RSX_Tmon_XC_C        638 TTTTCAAGAAACTTTCAATCTATTCATCTTTAGTCATGACAGTACAACGA 589
+
+  region6             2054 ACATAAAAAATAATAAAAAATTACATCCA 2082
+                              iv i        -           i 
+C RSX_Tmon_XC_C        588 ACACTAGAAATAATA-AAAATTACATCTA 561
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 14.78
+CpG sites = 10, Kimura (unadjusted) = 16.33
+Transitions / transversions = 10.00 (10/1)
+Gap_init rate = 0.01 (1 / 78), avg. gap size = 1.00 (1 / 1)
+
+251 20.58 1.20 6.33 region6 3648 3730 (11238) C DTT_Taes_Athos_42j2-12 (0) 85 7 m_b1s001i2
+
+  region6             3648 TACTCTGTTCGTCTTATAATATAATATAAGATCGCTTTGCAAGTTGTTTT 3697
+                                iv  i   ii        --    v  ---   v   ii i i  
+C DTT_Taes_Atho         85 TACTCCCTTTGTCCCATAATATA--ATAACAT---TTTTCAAACTATCTT 41
+
+  region6             3698 AGCTTGCAAAACCATCTTA-ATTATGGGATGGAG 3730
+                                 v     vv     -   i     i    
+C DTT_Taes_Atho         40 AGCTTGAAAAACGTTCTTATATTGTGGGACGGAG 7
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 22.75
+CpG sites = 10, Kimura (unadjusted) = 24.45
+Transitions / transversions = 1.67 (10/6)
+Gap_init rate = 0.07 (6 / 82), avg. gap size = 1.00 (6 / 6)
+
+337 14.29 1.59 0.00 region6 3668 3730 (11238) C DTT_Scer_Athos_BQ483026-1 (13) 68 5 m_b1s001i3
+
+  region6             3668 ATAATATAAGATCGCTTTGCAAGTTGTTTTAGCTTGCAAAACCATCTTA- 3716
+                                         i    i      i    i   i      v  v   -
+C DTT_Scer_Atho         68 ATAATATAAGATCGTTTTGTAAGTTGCTTTAACTTACAAAACGATGTTAT 19
+
+  region6             3717 ATTATGGGATGGAG 3730
+                                    ii   
+C DTT_Scer_Atho         18 ATTATGGGACAGAG 5
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 16.29
+CpG sites = 7, Kimura (unadjusted) = 16.29
+Transitions / transversions = 3.50 (7/2)
+Gap_init rate = 0.02 (1 / 62), avg. gap size = 1.00 (1 / 1)
+
+279 25.67 1.33 1.33 region6 3731 3805 (11163) C DTT_Taes_Athos_BJ272820-1 (5) 75 1 m_b1s001i4
+
+  region6             3731 TCCACCTCATAACATTAAGAT-CGCTTGCAAGCTGTTTTAGCTTGCATAA 3779
+                              ii i     i  -    i-ivi   v     i v   i      v  
+C DTT_Taes_Atho         75 TCCGTCCCATAATAT-AAGACATTTTTGAAAGCTATGTTAACTTGCAAAA 27
+
+  region6             3780 CGATCCTAATTATGGGATGAAGGGAG 3805
+                           i i ii     i            i 
+C DTT_Taes_Atho         26 TGGTTTTAATTGTGGGATGAAGGGGG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 31.42
+CpG sites = 15, Kimura (unadjusted) = 33.62
+Transitions / transversions = 3.75 (15/4)
+Gap_init rate = 0.03 (2 / 74), avg. gap size = 1.00 (2 / 2)
+
+614 24.58 5.49 4.26 region6 3984 3999 (11002) DTT_Taes_Silvina_4dls01491-1 1 15 (243) m_b1s001i5
+
+  region6             3984 CTCTCTCTCTCTCTCT 3999
+                              i   iv -  iv 
+  DTT_Taes_Silv          1 CTCCCTCCGT-TCCAT 15
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 29.58
+CpG sites = 38, Kimura (unadjusted) = 30.81
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.07 (1 / 15), avg. gap size = 1.00 (1 / 1)
+
+40 0.00 0.00 0.00 region6 4000 4033 (10968) (CA)n#Simple_repeat 1 34 (0) c_b1s251i0
+
+  region6             4000 CACACACACACACACACACACACACACACACACA 4033
+                                                             
+  (CA)n#Simple_          1 CACACACACACACACACACACACACACACACACA 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+614 24.58 5.49 4.26 region6 4034 4271 (10730) DTT_Taes_Silvina_4dls01491-1 16 257 (1) m_b1s001i5
+
+  region6             4034 ATGTAGTGTGTATAGATTTTTCTAAAAATCTAACTTTACAAATTTTAACC 4083
+                                   ii           iv    v  v  i   ii   i   i   
+  DTT_Taes_Silv         16 ATGTAGTGCATATAGATTTTTTGAAAATTCAAATTTTGTAAACTTTGACC 65
+
+  region6             4084 AAAGTTATAAAGAAAACTATTTATACCGATAGTACAGTACATACTAAATA 4133
+                              v            v        i -----    ii   v -- iv i
+  DTT_Taes_Silv         66 AAATTTATAAAGAAAAGTATTTATATC-----TACAACACAAA--AGTTG 108
+
+  region6             4134 CATAAAATGTGAAACTACTACTTCTTATAATGAATCTAATAATATATGCT 4183
+                           i   v   i    --- v   v v  i i   v       i v  i ii 
+  DTT_Taes_Silv        109 TATACAATATGAA---AGTACATATTGTGATGTATCTAATGAAATGTATT 155
+
+  region6             4184 TATCATTCTAAATGTAAATGTTTTCCTCCAAAGATTTGA--AAAGTTTGT 4231
+                            ivi i    i     v       i   i v i i   i--      v  
+  DTT_Taes_Silv        156 TGGTACTCTAGATGTATATGTTTTTCTCTACAAACTTGGTCAAAGTTAGT 205
+
+  region6             4232 GAGGTTTGACTTAC------------TGCACTACAGTATGGAAGGAAGGG 4269
+                           i i         v ------------i        v i     v i    
+  DTT_Taes_Silv        206 AAAGTTTGACTTTCAAAATATTTATACGCACTACATTGTGGAACGGAGGG 255
+
+  region6             4270 AG 4271
+                             
+  DTT_Taes_Silv        256 AG 257
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 29.58
+CpG sites = 38, Kimura (unadjusted) = 30.81
+Transitions / transversions = 1.75 (35/20)
+Gap_init rate = 0.05 (12 / 237), avg. gap size = 2.00 (24 / 12)
+
+27 37.10 1.36 1.36 region6 9048 9194 (5807) (GCC)n#Simple_repeat 1 147 (0) m_b1s252i1
+
+  region6             9048 GCCACCACCGCCGCCGCCGCCGCCACCGCCCCTGCGTCCCGTGCCACCGC 9097
+                              i  i                 i     v i  vv  vvi   i    
+  (GCC)n#Simple          1 GCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGC 50
+
+  region6             9098 CACCACCGCCCGTGCGTTCCG-TGCCACGGCCACCACTAACATCGTCGTG 9146
+                            i  i     vvi  -iv   -i   i v   i  i iiv ii  i  iv
+  (GCC)n#Simple         51 CGCCGCCGCCGCCGC-CGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCC 99
+
+  region6             9147 GCCG-CGCTTGCCCACGCAGCTACCTCCGCCGCCTCCACCGCCGCCACC 9194
+                               -   -i   vv   v  ii  v        v  i        i  
+  (GCC)n#Simple        100 GCCGCCGC-CGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCC 147
+
+Matrix = Unknown
+Transitions / transversions = 1.56 (25/16)
+Gap_init rate = 0.03 (4 / 146), avg. gap size = 1.00 (4 / 4)
+
+16 21.01 4.55 4.55 region6 10399 10464 (4537) (GCG)n#Simple_repeat 1 66 (0) m_b1s252i2
+
+  region6            10399 GCGGCGGAGGACATC-GCGGCGGCGAGGGCGGCAGCGG-AGCGG-GGCGA 10445
+                                  v  - iv -         iv      i    -i    -    -
+  (GCG)n#Simple          1 GCGGCGGCGG-CGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCG- 48
+
+  region6            10446 GCACCAGGAGGCGGTGGCG 10464
+                             iv -  v     i    
+  (GCG)n#Simple         49 GCGGC-GGCGGCGGCGGCG 66
+
+Matrix = Unknown
+Transitions / transversions = 1.20 (6/5)
+Gap_init rate = 0.09 (6 / 65), avg. gap size = 1.00 (6 / 6)
+
+11 21.93 3.92 3.92 region6 10490 10540 (4461) (TGGCGA)n#Simple_repeat 1 51 (0) m_b1s252i3
+
+  region6            10490 TGGCGCTGTCAGA-GGCGGCGAGCGATGGCGATCCCG-TGACCATGGCGC 10537
+                                v  v -  -    ii -           vv  -  i v      v
+  (TGGCGA)n#Sim          1 TGGCGATGGC-GATGGCGATG-GCGATGGCGATGGCGATGGCGATGGCGA 48
+
+  region6            10538 TGG 10540
+                              
+  (TGGCGA)n#Sim         49 TGG 51
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.08 (4 / 50), avg. gap size = 1.00 (4 / 4)
+
+401 26.99 0.00 1.59 region6 12432 12559 (2442) DTC_Taes_Jorge_65C22-1 19835 19960 (10898) m_b1s001i6
+
+  region6            12432 AAAGCTCACTTTGGTCATTGTACTTAAAAATACGGTCAATACGATCACTA 12481
+                                vi v vi     ii v    v i    v v v v    i      
+  DTC_Taes_Jorg      19835 AAAGCGTAATACGGTCACCGAACTTCAGAATAAGTTGATTACGGTCACTA 19884
+
+  region6            12482 TATACGACTTGAGGTGATTATACGGTCACTGCCTCATCGTACAAAGCTCC 12531
+                               i vi   v           i      vv    iv  v --   vi 
+  DTC_Taes_Jorg      19885 TATATGTTTTGTGGTGATTATACAGTCACTTGCTCACGGTTC--AGCATC 19932
+
+  region6            12532 GTATTTTACTCTGTTGACTAGTCAAACA 12559
+                            v   vi           iv i    i 
+  DTC_Taes_Jorg      19933 GGATTGCACTCTGTTGACCTGCCAAATA 19960
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 30.21
+CpG sites = 15, Kimura (unadjusted) = 33.60
+Transitions / transversions = 0.79 (15/19)
+Gap_init rate = 0.02 (2 / 127), avg. gap size = 1.00 (2 / 2)
+
+12 10.03 0.00 0.00 region6 13937 13958 (1043) (GCAT)n#Simple_repeat 1 22 (0) m_b1s252i4
+
+  region6            13937 GCATGCATGCATGCACACATGC 13958
+                                          ii     
+  (GCAT)n#Simpl          1 GCATGCATGCATGCATGCATGC 22
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.00 (0 / 21), avg. gap size = 0.0 (0 / 0)
+
+330 30.31 7.05 0.60 region6 14152 14307 (694) DTC_Taes_Jorge_65C22-1 20830 20995 (9863) m_b1s001i7
+
+  region6            14152 GTGTTTGACCAGTCAACAAGTGA-----------AATACGAAGCTGTACG 14190
+                            i    i  ii      v   v -----------     ii  i      
+  DTC_Taes_Jorg      20830 GCGTTTAACTGGTCAACTAGTCATGTCATGAGCAAATACAGAGTTGTACG 20879
+
+  region6            14191 GTGAGACAATGACCGTATAATCATCTCAAGTCGTATATAGTGACCGTATT 14240
+                                v vi   ii       v i v v iv i  v  i         v 
+  DTC_Taes_Jorg      20880 GTGAGCCCGTGATTGTATAATAACCACTAAACATAAATGGTGACCGTAAT 20929
+
+  region6            14241 GATCGTATTTTTAAGTACAATGACCAAAGTGAGGCTTCGACACAAAGTTC 14290
+                             vi v   i v    v     vv iv vi -v    iv  viv  i v 
+  DTC_Taes_Jorg      20930 GAGTGGATTCTGAAGTCCAATGTACGTATCG-TGCTTTCACTTCAAATAC 20978
+
+  region6            14291 AATGACCGTGAATGCAT 14307
+                                i   v v     
+  DTC_Taes_Jorg      20979 AATGATCGTCATTGCAT 20995
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 35.17
+CpG sites = 22, Kimura (unadjusted) = 39.19
+Transitions / transversions = 0.88 (22/25)
+Gap_init rate = 0.01 (2 / 155), avg. gap size = 6.00 (12 / 2)
+
+415 23.89 0.88 0.00 region6 14153 14265 (736) C DTC_Taes_Jorge_65C22-1 (10898) 19960 19847 m_b1s001i8
+
+  region6            14153 TGTTTGACCAGTCAACA-AGTGAAATACGAAGCTGTACGGTGAGACAATG 14201
+                            i    i vi       -    v   v   v    v  v     vv i  
+C DTC_Taes_Jorg      19960 TATTTGGCAGGTCAACAGAGTGCAATCCGATGCTGAACCGTGAGCAAGTG 19911
+
+  region6            14202 ACCGTATAATCATCTCAAGTCGTATATAGTGACCGTATTGATCGTATTTT 14251
+                             i         i v   iv i               v v v v    i 
+C DTC_Taes_Jorg      19910 ACTGTATAATCACCACAAAACATATATAGTGACCGTAATCAACTTATTCT 19861
+
+  region6            14252 TAAGTACAATGACC 14265
+                           v    v ii     
+C DTC_Taes_Jorg      19860 GAAGTTCGGTGACC 19847
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 27.63
+CpG sites = 11, Kimura (unadjusted) = 28.82
+Transitions / transversions = 0.69 (11/16)
+Gap_init rate = 0.01 (1 / 112), avg. gap size = 1.00 (1 / 1)
+
+15 30.93 0.00 6.02 region6 14485 14572 (429) (AAAAAGA)n#Simple_repeat 1 83 (0) m_b1s252i5
+
+  region6            14485 AAAAGGAAAAAAGAAACTATACAGACATGTGAATAAATAATATAGCTAGA 14534
+                               i           -- - -   v viv   v   v  v v  vv i 
+  (AAAAAGA)n#Si          1 AAAAAGAAAAAAGAAA--A-A-AGAAAAAAGAAAAAAGAAAAAAGAAAAA 46
+
+  region6            14535 GGAAAGAAGAGAAAAAAAAATACAAACAACAACAAAAG 14572
+                           i    i    i    i    v v   v  v  -     
+  (AAAAAGA)n#Si         47 AGAAAAAAGAAAAAAGAAAAAAGAAAAAAGAA-AAAAG 83
+
+Matrix = Unknown
+Transitions / transversions = 0.54 (7/13)
+Gap_init rate = 0.06 (5 / 87), avg. gap size = 1.00 (5 / 5)
+
+236 26.16 8.59 5.39 region6 14713 14910 (91) RLC_Hvul_Sabrina_A_chr2H-35 6984 7187 (1916) m_b1s001i9
+
+  region6            14713 CAAACCCTAGCG---AAGGGGCAGCGAAAAAAGAGGTGATCTCT-TGTTT 14758
+                                   i i ---  vi    vvvi  i  v ii  i     - v  i
+  RLC_Hvul_Sabr       6984 CAAACCCTGGTGCTGAACAGGCATGTGAAGAATAAATGGTCTCTGTCTTC 7033
+
+  region6            14759 CAAG-CTCATGCAGATGACATAACACACAAGAGTATTTCTCCAGGA--AG 14805
+                            vv -   iv   --  i           -  -    -----  i --  
+  RLC_Hvul_Sabr       7034 CTTGACTCGGGCA--TGGCATAACACACA-GA-TATT-----AGAATCAG 7074
+
+  region6            14806 AAA--TTCTTGCG------TTGTAACATGGCCTG-GTGTTTAGTCTGTTG 14846
+                              --   iv i ------  vi i    v    -     i  i    iv
+  RLC_Hvul_Sabr       7075 AAACCTTCCAGTGACGCCTTTCCAGCATGTCCTGTGTGTTCAGCCTGTCC 7124
+
+  region6            14847 TTAATGAGCATCCAGGAAAAAAAATCTTATGCTTTATTTGGCAGCTG-TG 14895
+                           v               --v   v      vvi  i  vvvi    v - v
+  RLC_Hvul_Sabr       7125 ATAATGAGCATCCAGG--CAAACATCTTAACTTTCATGGTACAGCAGCTT 7172
+
+  region6            14896 TGCCAAACCCATTTA 14910
+                            v   i i   v   
+  RLC_Hvul_Sabr       7173 TTCCAGATCCAGTTA 7187
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 31.74
+CpG sites = 24, Kimura (unadjusted) = 32.52
+Transitions / transversions = 0.96 (24/25)
+Gap_init rate = 0.10 (19 / 197), avg. gap size = 1.47 (28 / 19)
+
+239 28.66 5.30 2.21 region6 14737 14868 (133) C RIX_Tmon_Miuse_115G1-1 (454) 6571 6436 m_b1s001i10
+
+  region6            14737 AAAAAGAGGTGATCTCTTGTTTC--AAGCTCATGCAGATGACATAACACA 14784
+                                v vi              --v   i--    i v i  v i    
+C RIX_Tmon_Mius       6571 AAAAACATATGATCTCTTGTTTCCCTAGCC--TGCAAAGGGCAGAGCACA 6524
+
+  region6            14785 CAAGAGTATTTC----TCCAGGAAGAAATTCTTGCGTTGTAACATGGCCT 14830
+                             - vv  i i ----    iivivv   v i v v  v  v   iv i 
+C RIX_Tmon_Mius       6523 CA-GTTTACTCCATCCTCCAAATGCCAATGCCTCCTTTCTACCATATCTT 6475
+
+  region6            14831 -GGTGTTTAGTCTGTTGTTAATGAGCATCCAGGAAAAAA 14868
+                           -   i     i    ivv             i v   i 
+C RIX_Tmon_Mius       6474 TGGTATTTAGCCTGTCCATAATGAGCATCCAAGCAAAGA 6436
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 36.51
+CpG sites = 18, Kimura (unadjusted) = 36.51
+Transitions / transversions = 0.95 (18/19)
+Gap_init rate = 0.05 (6 / 131), avg. gap size = 1.67 (10 / 6)
+
+## Total Sequences: 1
+## Total Length: 15001
+## Total NonMask ( excluding >20bp runs of N/X bases ): 15001
+## Total NonSub ( excluding all non ACGT bases ):15001
+RepeatMasker version 4.1.7-p1 , default mode
+run with rmblastn version 2.14.1+
+RM Library: 

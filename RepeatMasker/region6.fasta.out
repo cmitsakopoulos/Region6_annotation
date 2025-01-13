@@ -1,0 +1,22 @@
+   SW   perc perc perc  query     position in query     matching                     repeat            position in repeat
+score   div. del. ins.  sequence  begin end    (left)   repeat                       class/family  begin   end    (left)   ID
+
+   15    0.0  0.0  0.0  region6     683   701 (14300) + (CGT)n                       Simple_repeat       1     19     (0)   1  
+  321   19.8  1.1  1.1  region6    1998  2089 (12912) C RSX_Taes_XC_C_42j2-2         Unspecified       (0)    480     389   2 *
+  391   14.1  0.0  1.3  region6    2004  2082 (12919) C RSX_Tmon_XC_C_AF326781-2     Unspecified     (147)    638     561   3  
+  251   20.6  1.2  6.3  region6    3648  3730 (11271) C DTT_Taes_Athos_42j2-12       Unspecified       (0)     85       7   4 *
+  337   14.3  1.6  0.0  region6    3668  3730 (11271) C DTT_Scer_Athos_BQ483026-1    Unspecified      (13)     68       5   5  
+  279   25.7  1.3  1.3  region6    3731  3805 (11196) C DTT_Taes_Athos_BJ272820-1    Unspecified       (5)     75       1   6  
+  614   24.6  5.5  4.3  region6    3984  3999 (11002) + DTT_Taes_Silvina_4dls01491-1 Unspecified         1     15   (243)   7  
+   40    0.0  0.0  0.0  region6    4000  4033 (10968) + (CA)n                        Simple_repeat       1     34     (0)   8  
+  614   24.6  5.5  4.3  region6    4034  4271 (10730) + DTT_Taes_Silvina_4dls01491-1 Unspecified        16    257     (1)   7  
+   27   37.1  1.4  1.4  region6    9048  9194  (5807) + (GCC)n                       Simple_repeat       1    147     (0)   9  
+   16   21.0  4.5  4.5  region6   10399 10464  (4537) + (GCG)n                       Simple_repeat       1     66     (0)  10  
+   11   21.9  3.9  3.9  region6   10490 10540  (4461) + (TGGCGA)n                    Simple_repeat       1     51     (0)  11  
+  401   27.0  0.0  1.6  region6   12432 12559  (2442) + DTC_Taes_Jorge_65C22-1       Unspecified     19835  19960 (10898)  12  
+   12   10.0  0.0  0.0  region6   13937 13958  (1043) + (GCAT)n                      Simple_repeat       1     22     (0)  13  
+  330   30.3  7.0  0.6  region6   14152 14307   (694) + DTC_Taes_Jorge_65C22-1       Unspecified     20830  20995  (9863)  14 *
+  415   23.9  0.9  0.0  region6   14153 14265   (736) C DTC_Taes_Jorge_65C22-1       Unspecified   (10898)  19960   19847  15  
+   15   30.9  0.0  6.0  region6   14485 14572   (429) + (AAAAAGA)n                   Simple_repeat       1     83     (0)  16  
+  236   26.2  8.6  5.4  region6   14713 14910    (91) + RLC_Hvul_Sabrina_A_chr2H-35  Unspecified      6984   7187  (1916)  17 *
+  239   28.7  5.3  2.2  region6   14737 14868   (133) C RIX_Tmon_Miuse_115G1-1       Unspecified     (454)   6571    6436  18  
